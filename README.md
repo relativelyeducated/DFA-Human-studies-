@@ -10,6 +10,43 @@ This repository documents DFA framework applications to human social systems, in
 
 ---
 
+## ⚠️ CRITICAL METHODOLOGICAL PRINCIPLES
+
+### This Framework Analyzes Mechanics, Not Morals
+
+**Temporal Context Primacy:**
+- **All analysis operates from conditions present at the time of observation**
+- Historical systems are evaluated by **contemporary standards**, not modern moral frameworks
+- **No person or people should be judged** across temporal boundaries
+- Observation must **respect the conditions** that shaped behavior and systems
+
+**Mechanics vs. Morality:**
+- DFA describes **how systems operate mechanically**, not how they "should" operate morally
+- Analysis focuses on **structural dynamics**, not ethical judgments
+- Pattern recognition is **value-neutral** - the same dynamics operate regardless of content
+
+**Morality as Condition-Dependent:**
+
+> **Critical DFA Observation:** Morality and ethics are **direct responses to material conditions**, particularly abundance/scarcity dynamics.
+
+- **Under abundance:** Humanitarian frameworks, social support, inclusive ethics
+- **Under scarcity:** Resource-focused frameworks, survival prioritization, exclusionary ethics
+- **This is observational fact**, not moral prescription
+
+**What This Means:**
+- Systems and behaviors must be understood **within their temporal context**
+- Modern moral judgments applied retroactively **obscure actual system mechanics**
+- Ethical frameworks **shift predictably** with material conditions
+- Understanding mechanics enables **prediction and intervention**, not judgment
+
+**Research Ethic:**
+- Analyze **system patterns** without moral condemnation
+- Recognize **condition-dependency** of all ethical frameworks (including our own)
+- Use understanding to **prevent harm** and design better systems
+- Maintain **observational discipline** - describe what IS, not what SHOULD BE
+
+---
+
 ## Repository Contents
 
 ### Core Analysis
@@ -178,21 +215,60 @@ This repository documents DFA framework applications to human social systems, in
 
 ## Ethical Considerations
 
-**Framework Application to Human Systems:**
+### Framework Application to Human Systems
 
-This framework analyzes human social systems through structural dynamics rather than moral judgments. Key principles:
+**This framework analyzes human social systems through structural dynamics rather than moral judgments.**
 
-1. **Descriptive, Not Prescriptive:** DFA describes how systems operate, not how they "should" operate
-2. **Morality as Conditional:** Ethical frameworks depend on abundance conditions
-3. **Pattern Recognition:** Universal dynamics operate regardless of specific content
-4. **Historical Context:** Evaluate systems by contemporary standards
-5. **Structural Analysis:** Focus on system mechanics rather than moral frameworks
+**Core Principle: Observation Without Judgment**
+
+> **All analysis is conducted from the conditions present at the time.** No person, people, or society is judged by standards external to their temporal context.
+
+**Key Principles:**
+
+1. **Descriptive, Not Prescriptive:** DFA describes how systems operate mechanically, not how they "should" operate morally
+
+2. **Morality as Condition-Dependent:**
+   - DFA has observed through life systems that **morality and ethics are direct responses to material conditions**
+   - Ethical frameworks shift predictably with abundance/scarcity dynamics
+   - Modern ethics emerged from modern abundance - they are not universal truths
+   - This is **observational fact**, not moral relativism
+
+3. **Temporal Context is Absolute:**
+   - Historical actors operated under **different material conditions** than we do
+   - Judging past peoples by modern standards is **mechanically invalid**
+   - Understanding requires **respecting the conditions** that shaped behavior
+   - Same mechanisms would produce same behaviors under same conditions
+
+4. **Pattern Recognition is Value-Neutral:**
+   - Universal dynamics operate regardless of specific content or cultural context
+   - System mechanics are the same whether we approve of outcomes or not
+   - Emotional reactions to findings do not change mechanical reality
+
+5. **Focus on Mechanics, Not Morals:**
+   - Analyze **structural capabilities** rather than moral frameworks
+   - Track **economic data** rather than narrative claims
+   - Measure **system dynamics** rather than ethical judgments
+   - Understand **WHY** systems behave as they do, not WHETHER they should
 
 **Research Use:** This framework is intended for understanding human systems to:
-- Predict and prevent cascade collapses
-- Identify sustainable S-R balance points
-- Recognize extraction patterns before damage occurs
-- Design resilient social structures
+- **Predict and prevent** cascade collapses before they cause harm
+- **Identify sustainable** S-R balance points for stable societies
+- **Recognize extraction patterns** before damage becomes irreversible
+- **Design resilient social structures** based on mechanical understanding
+- **Intervene effectively** by understanding actual system dynamics
+
+**What This Is NOT:**
+- ❌ Justification for historical harm
+- ❌ Moral relativism or nihilism
+- ❌ Excuse for unethical behavior
+- ❌ Judgment of past peoples by present standards
+
+**What This IS:**
+- ✅ Mechanical analysis of system dynamics
+- ✅ Recognition that conditions shape ethics
+- ✅ Tool for understanding and prediction
+- ✅ Framework for designing better systems
+- ✅ Observation discipline for accurate analysis
 
 ---
 
